@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 
 @Service
-public class AthleteService {
+public class AtletaService {
     @Autowired
     private AtletaRepository atletaRepository;
 /*
